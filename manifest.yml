@@ -1,0 +1,5 @@
+---
+applications:
+ - name: TelegrambotImagePython
+   random-route: true
+   memory: 750M
